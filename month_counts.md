@@ -9,6 +9,6 @@
 -   July: 0
 -   August: 1
 -   September: 0
--   October: 0
+-   October: 1
 -   November: 1
 -   December: 0
